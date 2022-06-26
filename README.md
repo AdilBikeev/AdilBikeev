@@ -7,10 +7,8 @@ Back-end Developer
 * 🌍  I'm based in Moscov
 * ✉️  You can contact me at [bikeev1999@mail.ru](mailto:bikeev1999@mail.ru)
 
-<a href="https://www.twitter.com/uitlaber" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/uitlaber?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"
-/></a><a href="https://www.github.com/uitlaber" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/uitlaber?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
+<a href="https://www.github.com/AdilBikeev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/AdilBikeev?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
 
 ### Programming languages
 
